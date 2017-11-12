@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contact App</string>
+
+    <string-array name="sex_array">
+        <item>Jenis Kelamin</item>
+        <item>Pria</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>

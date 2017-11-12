@@ -1,0 +1,853 @@
+﻿[2017-03-23 02:07:53.252] [info   ] [settings   ] [13912: 3648] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-03-23 02:07:53.254] [warning] [whitelabel ] [13912: 3648] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-03-23 02:07:53.254] [warning] [whitelabel ] [13912: 3648] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-03-23 02:07:53.260] [info   ] [crashguard ] [13912: 3648] CrashGuard global exception handler installed
+[2017-03-23 02:07:53.260] [info   ] [crashguard ] [13912: 3648] CrashGuard initialized successfully, external dumping enabled
+[2017-03-23 02:07:53.263] [info   ] [wsc        ] [13912: 3648] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /svc /register /av_as'
+[2017-03-23 02:07:53.263] [info   ] [wsc        ] [13912: 3648] Registering struct IWscAVStatus
+[2017-03-23 02:07:53.288] [info   ] [wsc        ] [13912: 3648] Register succeeded: 0x00000000
+[2017-03-23 02:07:53.288] [info   ] [wsc        ] [13912: 3648] Registering struct IWscASStatus
+[2017-03-23 02:07:53.292] [info   ] [wsc        ] [13912: 3648] Register succeeded: 0x00000000
+[2017-03-23 02:08:59.521] [info   ] [settings   ] [ 3644:10168] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-03-23 02:08:59.523] [warning] [whitelabel ] [ 3644:10168] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-03-23 02:08:59.523] [warning] [whitelabel ] [ 3644:10168] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-03-23 02:08:59.526] [info   ] [crashguard ] [ 3644:10168] CrashGuard global exception handler installed
+[2017-03-23 02:08:59.526] [info   ] [crashguard ] [ 3644:10168] CrashGuard initialized successfully, external dumping enabled
+[2017-03-23 02:08:59.531] [info   ] [wsc        ] [ 3644:10168] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-03-23 02:08:59.531] [info   ] [wsc        ] [ 3644:15084] Updating struct IWscAVStatus
+[2017-03-23 02:08:59.531] [info   ] [wsc        ] [ 3644:  220] Updating struct IWscASStatus
+[2017-03-23 02:08:59.542] [warning] [wsc        ] [ 3644:  220] Not registered, registering...
+[2017-03-23 02:08:59.542] [warning] [wsc        ] [ 3644:15084] Not registered, registering...
+[2017-03-23 02:08:59.542] [info   ] [wsc        ] [ 3644:  220] Registering struct IWscASStatus
+[2017-03-23 02:08:59.542] [info   ] [wsc        ] [ 3644:15084] Registering struct IWscAVStatus
+[2017-03-23 02:08:59.548] [info   ] [wsc        ] [ 3644:  220] Register succeeded: 0x00000000
+[2017-03-23 02:08:59.553] [info   ] [wsc        ] [ 3644:15084] Register succeeded: 0x00000000
+[2017-03-23 02:09:06.395] [info   ] [settings   ] [14980: 7744] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-03-23 02:09:06.397] [warning] [whitelabel ] [14980: 7744] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-03-23 02:09:06.397] [warning] [whitelabel ] [14980: 7744] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-03-23 02:09:06.401] [info   ] [crashguard ] [14980: 7744] CrashGuard global exception handler installed
+[2017-03-23 02:09:06.401] [info   ] [crashguard ] [14980: 7744] CrashGuard initialized successfully, external dumping enabled
+[2017-03-23 02:09:06.401] [info   ] [wsc        ] [14980: 7744] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-03-23 02:09:06.402] [info   ] [wsc        ] [14980: 8412] Updating struct IWscAVStatus
+[2017-03-23 02:09:06.402] [info   ] [wsc        ] [14980: 7324] Updating struct IWscASStatus
+[2017-03-23 02:09:11.417] [info   ] [wsc        ] [ 3644:  220] UpdateStatus succeeded: 0x00000000
+[2017-03-23 02:09:11.466] [info   ] [wsc        ] [ 3644:15084] UpdateStatus succeeded: 0x00000000
+[2017-03-23 02:09:11.472] [info   ] [wsc        ] [14980: 7324] UpdateStatus succeeded: 0x00000000
+[2017-03-23 02:09:11.472] [info   ] [wsc        ] [14980: 8412] UpdateStatus succeeded: 0x00000000
+[2017-03-23 02:12:05.207] [info   ] [settings   ] [ 5136: 5140] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-03-23 02:12:05.209] [warning] [whitelabel ] [ 5136: 5140] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-03-23 02:12:05.209] [warning] [whitelabel ] [ 5136: 5140] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-03-23 02:12:05.343] [info   ] [crashguard ] [ 5136: 5140] CrashGuard global exception handler installed
+[2017-03-23 02:12:05.343] [info   ] [crashguard ] [ 5136: 5140] CrashGuard initialized successfully, external dumping enabled
+[2017-03-23 02:12:05.345] [info   ] [wsc        ] [ 5136: 5140] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-03-23 02:12:05.346] [info   ] [wsc        ] [ 5136: 5244] Updating struct IWscAVStatus
+[2017-03-23 02:12:05.346] [info   ] [wsc        ] [ 5136: 5248] Updating struct IWscASStatus
+[2017-03-23 02:12:05.363] [info   ] [wsc        ] [ 5136: 5244] UpdateStatus succeeded: 0x00000000
+[2017-03-23 02:12:05.363] [info   ] [wsc        ] [ 5136: 5248] UpdateStatus succeeded: 0x00000000
+[2017-03-24 07:58:12.467] [info   ] [settings   ] [ 5196: 5200] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-03-24 07:58:12.468] [warning] [whitelabel ] [ 5196: 5200] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-03-24 07:58:12.468] [warning] [whitelabel ] [ 5196: 5200] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-03-24 07:58:12.614] [info   ] [crashguard ] [ 5196: 5200] CrashGuard global exception handler installed
+[2017-03-24 07:58:12.615] [info   ] [crashguard ] [ 5196: 5200] CrashGuard initialized successfully, external dumping enabled
+[2017-03-24 07:58:12.621] [info   ] [wsc        ] [ 5196: 5200] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-03-24 07:58:12.622] [info   ] [wsc        ] [ 5196: 5284] Updating struct IWscAVStatus
+[2017-03-24 07:58:12.622] [info   ] [wsc        ] [ 5196: 5288] Updating struct IWscASStatus
+[2017-03-24 07:58:12.622] [notice ] [wsc        ] [ 5196: 5284] wscsvc state 2
+[2017-03-24 07:58:12.622] [notice ] [wsc        ] [ 5196: 5284] wscsvc is not running, starting now
+[2017-03-24 07:58:12.723] [info   ] [wsc        ] [ 5196: 5284] wsc service started successfully
+[2017-03-24 07:58:12.745] [info   ] [wsc        ] [ 5196: 5288] UpdateStatus succeeded: 0x00000000
+[2017-03-24 07:58:12.745] [info   ] [wsc        ] [ 5196: 5284] UpdateStatus succeeded: 0x00000000
+[2017-03-24 07:58:38.853] [info   ] [settings   ] [ 6168: 6164] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-03-24 07:58:38.854] [warning] [whitelabel ] [ 6168: 6164] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-03-24 07:58:38.854] [warning] [whitelabel ] [ 6168: 6164] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-03-24 07:58:38.856] [info   ] [crashguard ] [ 6168: 6164] CrashGuard global exception handler installed
+[2017-03-24 07:58:38.856] [info   ] [crashguard ] [ 6168: 6164] CrashGuard initialized successfully, external dumping enabled
+[2017-03-24 07:58:38.857] [info   ] [wsc        ] [ 6168: 6164] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-03-24 07:58:38.857] [info   ] [wsc        ] [ 6168: 1320] Updating struct IWscAVStatus
+[2017-03-24 07:58:38.857] [info   ] [wsc        ] [ 6168: 1312] Updating struct IWscASStatus
+[2017-03-24 07:58:38.870] [info   ] [wsc        ] [ 6168: 1312] UpdateStatus succeeded: 0x00000000
+[2017-03-24 07:58:38.870] [info   ] [wsc        ] [ 6168: 1320] UpdateStatus succeeded: 0x00000000
+[2017-03-25 03:12:40.172] [info   ] [settings   ] [ 7920: 3080] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-03-25 03:12:40.173] [warning] [whitelabel ] [ 7920: 3080] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-03-25 03:12:40.173] [warning] [whitelabel ] [ 7920: 3080] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-03-25 03:12:40.175] [info   ] [crashguard ] [ 7920: 3080] CrashGuard global exception handler installed
+[2017-03-25 03:12:40.175] [info   ] [crashguard ] [ 7920: 3080] CrashGuard initialized successfully, external dumping enabled
+[2017-03-25 03:12:40.176] [info   ] [wsc        ] [ 7920: 3080] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-03-25 03:12:40.176] [info   ] [wsc        ] [ 7920: 9364] Updating struct IWscAVStatus
+[2017-03-25 03:12:40.176] [info   ] [wsc        ] [ 7920:10532] Updating struct IWscASStatus
+[2017-03-25 03:12:40.198] [info   ] [wsc        ] [ 7920: 9364] UpdateStatus succeeded: 0x00000000
+[2017-03-25 03:12:40.198] [info   ] [wsc        ] [ 7920:10532] UpdateStatus succeeded: 0x00000000
+[2017-03-26 05:23:27.682] [info   ] [settings   ] [11280:11212] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-03-26 05:23:27.684] [warning] [whitelabel ] [11280:11212] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-03-26 05:23:27.684] [warning] [whitelabel ] [11280:11212] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-03-26 05:23:27.686] [info   ] [crashguard ] [11280:11212] CrashGuard global exception handler installed
+[2017-03-26 05:23:27.686] [info   ] [crashguard ] [11280:11212] CrashGuard initialized successfully, external dumping enabled
+[2017-03-26 05:23:27.686] [info   ] [wsc        ] [11280:11212] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-03-26 05:23:27.687] [info   ] [wsc        ] [11280: 6236] Updating struct IWscAVStatus
+[2017-03-26 05:23:27.687] [info   ] [wsc        ] [11280: 6248] Updating struct IWscASStatus
+[2017-03-26 05:23:27.705] [info   ] [wsc        ] [11280: 6248] UpdateStatus succeeded: 0x00000000
+[2017-03-26 05:23:27.705] [info   ] [wsc        ] [11280: 6236] UpdateStatus succeeded: 0x00000000
+[2017-03-26 14:49:52.699] [info   ] [settings   ] [12088: 8052] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-03-26 14:49:52.700] [warning] [whitelabel ] [12088: 8052] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-03-26 14:49:52.700] [warning] [whitelabel ] [12088: 8052] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-03-26 14:49:52.702] [info   ] [crashguard ] [12088: 8052] CrashGuard global exception handler installed
+[2017-03-26 14:49:52.702] [info   ] [crashguard ] [12088: 8052] CrashGuard initialized successfully, external dumping enabled
+[2017-03-26 14:49:52.703] [info   ] [wsc        ] [12088: 8052] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-03-26 14:49:52.704] [info   ] [wsc        ] [12088: 8540] Updating struct IWscAVStatus
+[2017-03-26 14:49:52.704] [info   ] [wsc        ] [12088: 7556] Updating struct IWscASStatus
+[2017-03-26 14:49:52.735] [info   ] [wsc        ] [12088: 8540] UpdateStatus succeeded: 0x00000000
+[2017-03-26 14:49:52.735] [info   ] [wsc        ] [12088: 7556] UpdateStatus succeeded: 0x00000000
+[2017-03-26 16:12:19.689] [info   ] [settings   ] [ 3548: 4132] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-03-26 16:12:19.692] [warning] [whitelabel ] [ 3548: 4132] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-03-26 16:12:19.692] [warning] [whitelabel ] [ 3548: 4132] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-03-26 16:12:19.696] [info   ] [crashguard ] [ 3548: 4132] CrashGuard global exception handler installed
+[2017-03-26 16:12:19.696] [info   ] [crashguard ] [ 3548: 4132] CrashGuard initialized successfully, external dumping enabled
+[2017-03-26 16:12:19.697] [info   ] [wsc        ] [ 3548: 4132] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-03-26 16:12:19.697] [info   ] [wsc        ] [ 3548: 3900] Updating struct IWscAVStatus
+[2017-03-26 16:12:19.697] [info   ] [wsc        ] [ 3548: 4052] Updating struct IWscASStatus
+[2017-03-26 16:12:19.698] [notice ] [wsc        ] [ 3548: 3900] wscsvc state 2
+[2017-03-26 16:12:19.698] [notice ] [wsc        ] [ 3548: 3900] wscsvc is not running, starting now
+[2017-03-26 16:12:19.800] [info   ] [wsc        ] [ 3548: 3900] wsc service started successfully
+[2017-03-26 16:12:19.824] [info   ] [wsc        ] [ 3548: 4052] UpdateStatus succeeded: 0x00000000
+[2017-03-26 16:12:19.824] [info   ] [wsc        ] [ 3548: 3900] UpdateStatus succeeded: 0x00000000
+[2017-03-27 16:11:45.603] [info   ] [settings   ] [11996:11380] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-03-27 16:11:45.604] [warning] [whitelabel ] [11996:11380] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-03-27 16:11:45.604] [warning] [whitelabel ] [11996:11380] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-03-27 16:11:45.607] [info   ] [crashguard ] [11996:11380] CrashGuard global exception handler installed
+[2017-03-27 16:11:45.607] [info   ] [crashguard ] [11996:11380] CrashGuard initialized successfully, external dumping enabled
+[2017-03-27 16:11:45.608] [info   ] [wsc        ] [11996:11380] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-03-27 16:11:45.608] [info   ] [wsc        ] [11996:12748] Updating struct IWscAVStatus
+[2017-03-27 16:11:45.608] [info   ] [wsc        ] [11996:11848] Updating struct IWscASStatus
+[2017-03-27 16:11:45.648] [info   ] [wsc        ] [11996:12748] UpdateStatus succeeded: 0x00000000
+[2017-03-27 16:11:45.648] [info   ] [wsc        ] [11996:11848] UpdateStatus succeeded: 0x00000000
+[2017-03-27 19:25:38.527] [info   ] [settings   ] [ 4240: 4196] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-03-27 19:25:38.529] [warning] [whitelabel ] [ 4240: 4196] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-03-27 19:25:38.529] [warning] [whitelabel ] [ 4240: 4196] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-03-27 19:25:38.533] [info   ] [crashguard ] [ 4240: 4196] CrashGuard global exception handler installed
+[2017-03-27 19:25:38.533] [info   ] [crashguard ] [ 4240: 4196] CrashGuard initialized successfully, external dumping enabled
+[2017-03-27 19:25:38.534] [info   ] [wsc        ] [ 4240: 4196] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-03-27 19:25:38.535] [info   ] [wsc        ] [ 4240: 3972] Updating struct IWscAVStatus
+[2017-03-27 19:25:38.535] [info   ] [wsc        ] [ 4240: 3968] Updating struct IWscASStatus
+[2017-03-27 19:25:38.535] [notice ] [wsc        ] [ 4240: 3972] wscsvc state 2
+[2017-03-27 19:25:38.535] [notice ] [wsc        ] [ 4240: 3972] wscsvc is not running, starting now
+[2017-03-27 19:25:38.637] [info   ] [wsc        ] [ 4240: 3972] wsc service started successfully
+[2017-03-27 19:25:38.659] [info   ] [wsc        ] [ 4240: 3968] UpdateStatus succeeded: 0x00000000
+[2017-03-27 19:25:38.659] [info   ] [wsc        ] [ 4240: 3972] UpdateStatus succeeded: 0x00000000
+[2017-03-28 13:29:05.904] [info   ] [settings   ] [10648:13596] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-03-28 13:29:05.906] [warning] [whitelabel ] [10648:13596] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-03-28 13:29:05.906] [warning] [whitelabel ] [10648:13596] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-03-28 13:29:05.908] [info   ] [crashguard ] [10648:13596] CrashGuard global exception handler installed
+[2017-03-28 13:29:05.908] [info   ] [crashguard ] [10648:13596] CrashGuard initialized successfully, external dumping enabled
+[2017-03-28 13:29:05.908] [info   ] [wsc        ] [10648:13596] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-03-28 13:29:05.909] [info   ] [wsc        ] [10648: 3500] Updating struct IWscAVStatus
+[2017-03-28 13:29:05.909] [info   ] [wsc        ] [10648:13528] Updating struct IWscASStatus
+[2017-03-28 13:29:05.932] [info   ] [wsc        ] [10648:13528] UpdateStatus succeeded: 0x00000000
+[2017-03-28 13:29:05.932] [info   ] [wsc        ] [10648: 3500] UpdateStatus succeeded: 0x00000000
+[2017-03-28 17:29:54.257] [info   ] [settings   ] [13956:14904] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-03-28 17:29:54.259] [warning] [whitelabel ] [13956:14904] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-03-28 17:29:54.259] [warning] [whitelabel ] [13956:14904] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-03-28 17:29:54.262] [info   ] [crashguard ] [13956:14904] CrashGuard global exception handler installed
+[2017-03-28 17:29:54.263] [info   ] [crashguard ] [13956:14904] CrashGuard initialized successfully, external dumping enabled
+[2017-03-28 17:29:54.263] [info   ] [wsc        ] [13956:14904] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-03-28 17:29:54.264] [info   ] [wsc        ] [13956: 6628] Updating struct IWscAVStatus
+[2017-03-28 17:29:54.264] [info   ] [wsc        ] [13956: 6728] Updating struct IWscASStatus
+[2017-03-28 17:29:54.290] [info   ] [wsc        ] [13956: 6628] UpdateStatus succeeded: 0x00000000
+[2017-03-28 17:29:54.290] [info   ] [wsc        ] [13956: 6728] UpdateStatus succeeded: 0x00000000
+[2017-03-30 04:09:44.613] [info   ] [settings   ] [ 7768:13276] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-03-30 04:09:44.615] [warning] [whitelabel ] [ 7768:13276] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-03-30 04:09:44.615] [warning] [whitelabel ] [ 7768:13276] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-03-30 04:09:44.618] [info   ] [crashguard ] [ 7768:13276] CrashGuard global exception handler installed
+[2017-03-30 04:09:44.618] [info   ] [crashguard ] [ 7768:13276] CrashGuard initialized successfully, external dumping enabled
+[2017-03-30 04:09:44.619] [info   ] [wsc        ] [ 7768:13276] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-03-30 04:09:44.620] [info   ] [wsc        ] [ 7768:14076] Updating struct IWscAVStatus
+[2017-03-30 04:09:44.620] [info   ] [wsc        ] [ 7768: 5316] Updating struct IWscASStatus
+[2017-03-30 04:09:44.646] [info   ] [wsc        ] [ 7768:14076] UpdateStatus succeeded: 0x00000000
+[2017-03-30 04:09:44.646] [info   ] [wsc        ] [ 7768: 5316] UpdateStatus succeeded: 0x00000000
+[2017-03-31 01:21:10.022] [info   ] [settings   ] [ 2908:11776] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-03-31 01:21:10.024] [warning] [whitelabel ] [ 2908:11776] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-03-31 01:21:10.024] [warning] [whitelabel ] [ 2908:11776] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-03-31 01:21:10.027] [info   ] [crashguard ] [ 2908:11776] CrashGuard global exception handler installed
+[2017-03-31 01:21:10.027] [info   ] [crashguard ] [ 2908:11776] CrashGuard initialized successfully, external dumping enabled
+[2017-03-31 01:21:10.027] [info   ] [wsc        ] [ 2908:11776] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-03-31 01:21:10.028] [info   ] [wsc        ] [ 2908: 3224] Updating struct IWscAVStatus
+[2017-03-31 01:21:10.028] [info   ] [wsc        ] [ 2908:13356] Updating struct IWscASStatus
+[2017-03-31 01:21:10.053] [info   ] [wsc        ] [ 2908:13356] UpdateStatus succeeded: 0x00000000
+[2017-03-31 01:21:10.053] [info   ] [wsc        ] [ 2908: 3224] UpdateStatus succeeded: 0x00000000
+[2017-03-31 04:50:40.055] [info   ] [settings   ] [ 3536: 1932] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-03-31 04:50:40.056] [warning] [whitelabel ] [ 3536: 1932] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-03-31 04:50:40.056] [warning] [whitelabel ] [ 3536: 1932] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-03-31 04:50:40.188] [info   ] [crashguard ] [ 3536: 1932] CrashGuard global exception handler installed
+[2017-03-31 04:50:40.189] [info   ] [crashguard ] [ 3536: 1932] CrashGuard initialized successfully, external dumping enabled
+[2017-03-31 04:50:40.190] [info   ] [wsc        ] [ 3536: 1932] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-03-31 04:50:40.191] [info   ] [wsc        ] [ 3536: 5176] Updating struct IWscAVStatus
+[2017-03-31 04:50:40.191] [info   ] [wsc        ] [ 3536: 5180] Updating struct IWscASStatus
+[2017-03-31 04:50:40.191] [notice ] [wsc        ] [ 3536: 5176] wscsvc state 2
+[2017-03-31 04:50:40.192] [notice ] [wsc        ] [ 3536: 5176] wscsvc is not running, starting now
+[2017-03-31 04:50:40.294] [info   ] [wsc        ] [ 3536: 5176] wsc service started successfully
+[2017-03-31 04:50:40.316] [info   ] [wsc        ] [ 3536: 5180] UpdateStatus succeeded: 0x00000000
+[2017-03-31 04:50:40.316] [info   ] [wsc        ] [ 3536: 5176] UpdateStatus succeeded: 0x00000000
+[2017-03-31 12:51:29.904] [info   ] [settings   ] [11304: 9160] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-03-31 12:51:29.907] [warning] [whitelabel ] [11304: 9160] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-03-31 12:51:29.907] [warning] [whitelabel ] [11304: 9160] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-03-31 12:51:29.913] [info   ] [crashguard ] [11304: 9160] CrashGuard global exception handler installed
+[2017-03-31 12:51:29.913] [info   ] [crashguard ] [11304: 9160] CrashGuard initialized successfully, external dumping enabled
+[2017-03-31 12:51:29.915] [info   ] [wsc        ] [11304: 9160] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-03-31 12:51:29.916] [info   ] [wsc        ] [11304: 1140] Updating struct IWscAVStatus
+[2017-03-31 12:51:29.917] [info   ] [wsc        ] [11304:  912] Updating struct IWscASStatus
+[2017-03-31 12:51:29.983] [info   ] [wsc        ] [11304: 1140] UpdateStatus succeeded: 0x00000000
+[2017-03-31 12:51:29.983] [info   ] [wsc        ] [11304:  912] UpdateStatus succeeded: 0x00000000
+[2017-04-01 03:29:25.602] [info   ] [settings   ] [ 7112: 9496] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-01 03:29:25.603] [warning] [whitelabel ] [ 7112: 9496] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-04-01 03:29:25.603] [warning] [whitelabel ] [ 7112: 9496] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-04-01 03:29:25.605] [info   ] [crashguard ] [ 7112: 9496] CrashGuard global exception handler installed
+[2017-04-01 03:29:25.605] [info   ] [crashguard ] [ 7112: 9496] CrashGuard initialized successfully, external dumping enabled
+[2017-04-01 03:29:25.606] [info   ] [wsc        ] [ 7112: 9496] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-01 03:29:25.607] [info   ] [wsc        ] [ 7112:11416] Updating struct IWscAVStatus
+[2017-04-01 03:29:25.607] [info   ] [wsc        ] [ 7112: 6320] Updating struct IWscASStatus
+[2017-04-01 03:29:25.629] [info   ] [wsc        ] [ 7112: 6320] UpdateStatus succeeded: 0x00000000
+[2017-04-01 03:29:25.629] [info   ] [wsc        ] [ 7112:11416] UpdateStatus succeeded: 0x00000000
+[2017-04-02 13:33:56.905] [info   ] [settings   ] [10376:11988] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-02 13:33:56.907] [warning] [whitelabel ] [10376:11988] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-04-02 13:33:56.907] [warning] [whitelabel ] [10376:11988] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-04-02 13:33:56.910] [info   ] [crashguard ] [10376:11988] CrashGuard global exception handler installed
+[2017-04-02 13:33:56.910] [info   ] [crashguard ] [10376:11988] CrashGuard initialized successfully, external dumping enabled
+[2017-04-02 13:33:56.911] [info   ] [wsc        ] [10376:11988] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-02 13:33:56.911] [info   ] [wsc        ] [10376: 4548] Updating struct IWscAVStatus
+[2017-04-02 13:33:56.911] [info   ] [wsc        ] [10376: 2952] Updating struct IWscASStatus
+[2017-04-02 13:33:56.935] [info   ] [wsc        ] [10376: 4548] UpdateStatus succeeded: 0x00000000
+[2017-04-02 13:33:56.935] [info   ] [wsc        ] [10376: 2952] UpdateStatus succeeded: 0x00000000
+[2017-04-02 13:35:00.574] [info   ] [settings   ] [13036:  136] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-02 13:35:00.576] [warning] [whitelabel ] [13036:  136] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-04-02 13:35:00.576] [warning] [whitelabel ] [13036:  136] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-04-02 13:35:00.581] [info   ] [crashguard ] [13036:  136] CrashGuard global exception handler installed
+[2017-04-02 13:35:00.581] [info   ] [crashguard ] [13036:  136] CrashGuard initialized successfully, external dumping enabled
+[2017-04-02 13:35:00.582] [info   ] [wsc        ] [13036:  136] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-02 13:35:00.582] [info   ] [wsc        ] [13036:13088] Updating struct IWscAVStatus
+[2017-04-02 13:35:00.582] [info   ] [wsc        ] [13036: 9796] Updating struct IWscASStatus
+[2017-04-02 13:35:00.608] [info   ] [wsc        ] [13036:13088] UpdateStatus succeeded: 0x00000000
+[2017-04-02 13:35:00.608] [info   ] [wsc        ] [13036: 9796] UpdateStatus succeeded: 0x00000000
+[2017-04-03 21:15:23.408] [info   ] [settings   ] [ 7268: 6652] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-03 21:15:23.409] [warning] [whitelabel ] [ 7268: 6652] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-04-03 21:15:23.409] [warning] [whitelabel ] [ 7268: 6652] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-04-03 21:15:23.411] [info   ] [crashguard ] [ 7268: 6652] CrashGuard global exception handler installed
+[2017-04-03 21:15:23.411] [info   ] [crashguard ] [ 7268: 6652] CrashGuard initialized successfully, external dumping enabled
+[2017-04-03 21:15:23.411] [info   ] [wsc        ] [ 7268: 6652] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-03 21:15:23.413] [info   ] [wsc        ] [ 7268: 2900] Updating struct IWscAVStatus
+[2017-04-03 21:15:23.413] [info   ] [wsc        ] [ 7268: 4920] Updating struct IWscASStatus
+[2017-04-03 21:15:23.434] [info   ] [wsc        ] [ 7268: 4920] UpdateStatus succeeded: 0x00000000
+[2017-04-03 21:15:23.434] [info   ] [wsc        ] [ 7268: 2900] UpdateStatus succeeded: 0x00000000
+[2017-04-04 20:18:19.604] [info   ] [settings   ] [ 8580: 9332] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-04 20:18:19.605] [warning] [whitelabel ] [ 8580: 9332] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-04-04 20:18:19.605] [warning] [whitelabel ] [ 8580: 9332] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-04-04 20:18:19.607] [info   ] [crashguard ] [ 8580: 9332] CrashGuard global exception handler installed
+[2017-04-04 20:18:19.607] [info   ] [crashguard ] [ 8580: 9332] CrashGuard initialized successfully, external dumping enabled
+[2017-04-04 20:18:19.608] [info   ] [wsc        ] [ 8580: 9332] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-04 20:18:19.608] [info   ] [wsc        ] [ 8580: 2940] Updating struct IWscAVStatus
+[2017-04-04 20:18:19.608] [info   ] [wsc        ] [ 8580:12248] Updating struct IWscASStatus
+[2017-04-04 20:18:19.628] [info   ] [wsc        ] [ 8580: 2940] UpdateStatus succeeded: 0x00000000
+[2017-04-04 20:18:19.628] [info   ] [wsc        ] [ 8580:12248] UpdateStatus succeeded: 0x00000000
+[2017-04-04 20:20:42.444] [info   ] [settings   ] [ 4388: 4604] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-04 20:20:42.445] [warning] [whitelabel ] [ 4388: 4604] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-04-04 20:20:42.446] [warning] [whitelabel ] [ 4388: 4604] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-04-04 20:20:42.448] [info   ] [crashguard ] [ 4388: 4604] CrashGuard global exception handler installed
+[2017-04-04 20:20:42.448] [info   ] [crashguard ] [ 4388: 4604] CrashGuard initialized successfully, external dumping enabled
+[2017-04-04 20:20:42.449] [info   ] [wsc        ] [ 4388: 4604] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-04 20:20:42.449] [info   ] [wsc        ] [ 4388: 5144] Updating struct IWscAVStatus
+[2017-04-04 20:20:42.450] [info   ] [wsc        ] [ 4388: 5148] Updating struct IWscASStatus
+[2017-04-04 20:20:42.450] [notice ] [wsc        ] [ 4388: 5144] wscsvc state 2
+[2017-04-04 20:20:42.450] [notice ] [wsc        ] [ 4388: 5144] wscsvc is not running, starting now
+[2017-04-04 20:20:42.551] [info   ] [wsc        ] [ 4388: 5144] wsc service started successfully
+[2017-04-04 20:20:42.573] [info   ] [wsc        ] [ 4388: 5148] UpdateStatus succeeded: 0x00000000
+[2017-04-04 20:20:42.573] [info   ] [wsc        ] [ 4388: 5144] UpdateStatus succeeded: 0x00000000
+[2017-04-06 03:28:44.060] [info   ] [settings   ] [ 5296: 5300] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-06 03:28:44.061] [warning] [whitelabel ] [ 5296: 5300] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-04-06 03:28:44.061] [warning] [whitelabel ] [ 5296: 5300] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-04-06 03:28:44.187] [info   ] [crashguard ] [ 5296: 5300] CrashGuard global exception handler installed
+[2017-04-06 03:28:44.187] [info   ] [crashguard ] [ 5296: 5300] CrashGuard initialized successfully, external dumping enabled
+[2017-04-06 03:28:44.189] [info   ] [wsc        ] [ 5296: 5300] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-06 03:28:44.190] [info   ] [wsc        ] [ 5296: 5392] Updating struct IWscAVStatus
+[2017-04-06 03:28:44.190] [info   ] [wsc        ] [ 5296: 5396] Updating struct IWscASStatus
+[2017-04-06 03:28:44.191] [notice ] [wsc        ] [ 5296: 5392] wscsvc state 2
+[2017-04-06 03:28:44.191] [notice ] [wsc        ] [ 5296: 5392] wscsvc is not running, starting now
+[2017-04-06 03:28:44.293] [info   ] [wsc        ] [ 5296: 5392] wsc service started successfully
+[2017-04-06 03:28:44.315] [info   ] [wsc        ] [ 5296: 5396] UpdateStatus succeeded: 0x00000000
+[2017-04-06 03:28:44.315] [info   ] [wsc        ] [ 5296: 5392] UpdateStatus succeeded: 0x00000000
+[2017-04-06 03:29:57.976] [info   ] [settings   ] [ 1468: 1292] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-06 03:29:57.978] [warning] [whitelabel ] [ 1468: 1292] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/NextPostUpdateScreen
+[2017-04-06 03:29:57.978] [warning] [whitelabel ] [ 1468: 1292] Attempted to use company-specific property path. Please update it to avcfg://settings/UserInterface/PostUpdateScreenEnabled
+[2017-04-06 03:29:57.980] [info   ] [crashguard ] [ 1468: 1292] CrashGuard global exception handler installed
+[2017-04-06 03:29:57.980] [info   ] [crashguard ] [ 1468: 1292] CrashGuard initialized successfully, external dumping enabled
+[2017-04-06 03:29:57.980] [info   ] [wsc        ] [ 1468: 1292] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-06 03:29:57.981] [info   ] [wsc        ] [ 1468: 2040] Updating struct IWscAVStatus
+[2017-04-06 03:29:57.981] [info   ] [wsc        ] [ 1468: 1256] Updating struct IWscASStatus
+[2017-04-06 03:29:57.997] [info   ] [wsc        ] [ 1468: 1256] UpdateStatus succeeded: 0x00000000
+[2017-04-06 03:29:57.997] [info   ] [wsc        ] [ 1468: 2040] UpdateStatus succeeded: 0x00000000
+[2017-04-06 03:58:35.083] [info   ] [settings   ] [ 2780: 2596] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-06 03:58:35.087] [info   ] [crashguard ] [ 2780: 2596] CrashGuard global exception handler installed
+[2017-04-06 03:58:35.087] [info   ] [crashguard ] [ 2780: 2596] CrashGuard initialized successfully, external dumping enabled
+[2017-04-06 03:58:35.087] [info   ] [wsc        ] [ 2780: 2596] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-06 03:58:35.088] [info   ] [wsc        ] [ 2780: 7364] Updating struct IWscAVStatus
+[2017-04-06 03:58:35.088] [info   ] [wsc        ] [ 2780: 7368] Updating struct IWscASStatus
+[2017-04-06 03:58:35.105] [info   ] [wsc        ] [ 2780: 7364] UpdateStatus succeeded: 0x00000000
+[2017-04-06 03:58:35.105] [info   ] [wsc        ] [ 2780: 7368] UpdateStatus succeeded: 0x00000000
+[2017-04-07 06:59:35.078] [info   ] [settings   ] [10676: 6660] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-07 06:59:35.086] [info   ] [crashguard ] [10676: 6660] CrashGuard global exception handler installed
+[2017-04-07 06:59:35.086] [info   ] [crashguard ] [10676: 6660] CrashGuard initialized successfully, external dumping enabled
+[2017-04-07 06:59:35.088] [info   ] [wsc        ] [10676: 6660] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-07 06:59:35.089] [info   ] [wsc        ] [10676: 1524] Updating struct IWscAVStatus
+[2017-04-07 06:59:35.089] [info   ] [wsc        ] [10676:12272] Updating struct IWscASStatus
+[2017-04-07 06:59:35.140] [info   ] [wsc        ] [10676: 1524] UpdateStatus succeeded: 0x00000000
+[2017-04-07 06:59:35.140] [info   ] [wsc        ] [10676:12272] UpdateStatus succeeded: 0x00000000
+[2017-04-07 16:14:05.563] [info   ] [settings   ] [12828:12928] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-07 16:14:05.566] [info   ] [crashguard ] [12828:12928] CrashGuard global exception handler installed
+[2017-04-07 16:14:05.567] [info   ] [crashguard ] [12828:12928] CrashGuard initialized successfully, external dumping enabled
+[2017-04-07 16:14:05.567] [info   ] [wsc        ] [12828:12928] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-07 16:14:05.568] [info   ] [wsc        ] [12828:13408] Updating struct IWscAVStatus
+[2017-04-07 16:14:05.568] [info   ] [wsc        ] [12828:13780] Updating struct IWscASStatus
+[2017-04-07 16:14:05.596] [info   ] [wsc        ] [12828:13408] UpdateStatus succeeded: 0x00000000
+[2017-04-07 16:14:05.596] [info   ] [wsc        ] [12828:13780] UpdateStatus succeeded: 0x00000000
+[2017-04-08 21:08:30.409] [info   ] [settings   ] [13288: 2004] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-08 21:08:30.413] [info   ] [crashguard ] [13288: 2004] CrashGuard global exception handler installed
+[2017-04-08 21:08:30.413] [info   ] [crashguard ] [13288: 2004] CrashGuard initialized successfully, external dumping enabled
+[2017-04-08 21:08:30.413] [info   ] [wsc        ] [13288: 2004] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-08 21:08:30.413] [info   ] [wsc        ] [13288:10224] Updating struct IWscAVStatus
+[2017-04-08 21:08:30.414] [info   ] [wsc        ] [13288:10184] Updating struct IWscASStatus
+[2017-04-08 21:08:30.435] [info   ] [wsc        ] [13288:10184] UpdateStatus succeeded: 0x00000000
+[2017-04-08 21:08:30.436] [info   ] [wsc        ] [13288:10224] UpdateStatus succeeded: 0x00000000
+[2017-04-09 15:33:58.954] [info   ] [settings   ] [ 9428: 7088] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-09 15:33:58.958] [info   ] [crashguard ] [ 9428: 7088] CrashGuard global exception handler installed
+[2017-04-09 15:33:58.959] [info   ] [crashguard ] [ 9428: 7088] CrashGuard initialized successfully, external dumping enabled
+[2017-04-09 15:33:58.959] [info   ] [wsc        ] [ 9428: 7088] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-09 15:33:58.960] [info   ] [wsc        ] [ 9428: 9388] Updating struct IWscAVStatus
+[2017-04-09 15:33:58.960] [info   ] [wsc        ] [ 9428: 6164] Updating struct IWscASStatus
+[2017-04-09 15:33:58.990] [info   ] [wsc        ] [ 9428: 9388] UpdateStatus succeeded: 0x00000000
+[2017-04-09 15:33:58.990] [info   ] [wsc        ] [ 9428: 6164] UpdateStatus succeeded: 0x00000000
+[2017-04-10 06:25:44.426] [info   ] [settings   ] [ 5344: 5348] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-10 06:25:44.439] [info   ] [crashguard ] [ 5344: 5348] CrashGuard global exception handler installed
+[2017-04-10 06:25:44.439] [info   ] [crashguard ] [ 5344: 5348] CrashGuard initialized successfully, external dumping enabled
+[2017-04-10 06:25:44.441] [info   ] [wsc        ] [ 5344: 5348] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-10 06:25:44.443] [info   ] [wsc        ] [ 5344: 5428] Updating struct IWscAVStatus
+[2017-04-10 06:25:44.443] [info   ] [wsc        ] [ 5344: 5436] Updating struct IWscASStatus
+[2017-04-10 06:25:44.444] [notice ] [wsc        ] [ 5344: 5428] wscsvc state 2
+[2017-04-10 06:25:44.444] [notice ] [wsc        ] [ 5344: 5428] wscsvc is not running, starting now
+[2017-04-10 06:25:44.549] [info   ] [wsc        ] [ 5344: 5428] wsc service started successfully
+[2017-04-10 06:25:44.648] [notice ] [wsc        ] [ 5344: 5428] wsc pending: 0
+[2017-04-10 06:25:44.649] [notice ] [wsc        ] [ 5344: 5436] wsc pending: 0
+[2017-04-10 06:25:44.724] [info   ] [wsc        ] [ 5344: 5436] UpdateStatus succeeded: 0x00000000
+[2017-04-10 06:25:44.724] [info   ] [wsc        ] [ 5344: 5428] UpdateStatus succeeded: 0x00000000
+[2017-04-10 12:03:19.792] [info   ] [settings   ] [ 8644: 8632] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-10 12:03:19.795] [info   ] [crashguard ] [ 8644: 8632] CrashGuard global exception handler installed
+[2017-04-10 12:03:19.795] [info   ] [crashguard ] [ 8644: 8632] CrashGuard initialized successfully, external dumping enabled
+[2017-04-10 12:03:19.796] [info   ] [wsc        ] [ 8644: 8632] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-10 12:03:19.796] [info   ] [wsc        ] [ 8644: 7028] Updating struct IWscAVStatus
+[2017-04-10 12:03:19.796] [info   ] [wsc        ] [ 8644:  872] Updating struct IWscASStatus
+[2017-04-10 12:03:19.816] [info   ] [wsc        ] [ 8644: 7028] UpdateStatus succeeded: 0x00000000
+[2017-04-10 12:03:19.816] [info   ] [wsc        ] [ 8644:  872] UpdateStatus succeeded: 0x00000000
+[2017-04-12 06:02:41.824] [info   ] [settings   ] [ 7652: 7764] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-12 06:02:41.827] [info   ] [crashguard ] [ 7652: 7764] CrashGuard global exception handler installed
+[2017-04-12 06:02:41.827] [info   ] [crashguard ] [ 7652: 7764] CrashGuard initialized successfully, external dumping enabled
+[2017-04-12 06:02:41.827] [info   ] [wsc        ] [ 7652: 7764] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-12 06:02:41.829] [info   ] [wsc        ] [ 7652: 6972] Updating struct IWscAVStatus
+[2017-04-12 06:02:41.829] [info   ] [wsc        ] [ 7652: 6884] Updating struct IWscASStatus
+[2017-04-12 06:02:41.854] [info   ] [wsc        ] [ 7652: 6972] UpdateStatus succeeded: 0x00000000
+[2017-04-12 06:02:41.854] [info   ] [wsc        ] [ 7652: 6884] UpdateStatus succeeded: 0x00000000
+[2017-04-12 12:02:43.040] [info   ] [settings   ] [12944:12968] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-12 12:02:43.044] [info   ] [crashguard ] [12944:12968] CrashGuard global exception handler installed
+[2017-04-12 12:02:43.045] [info   ] [crashguard ] [12944:12968] CrashGuard initialized successfully, external dumping enabled
+[2017-04-12 12:02:43.045] [info   ] [wsc        ] [12944:12968] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-12 12:02:43.046] [info   ] [wsc        ] [12944:13004] Updating struct IWscAVStatus
+[2017-04-12 12:02:43.046] [info   ] [wsc        ] [12944:13020] Updating struct IWscASStatus
+[2017-04-12 12:02:43.071] [info   ] [wsc        ] [12944:13004] UpdateStatus succeeded: 0x00000000
+[2017-04-12 12:02:43.071] [info   ] [wsc        ] [12944:13020] UpdateStatus succeeded: 0x00000000
+[2017-04-12 18:07:11.042] [info   ] [settings   ] [ 7576: 9884] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-12 18:07:11.046] [info   ] [crashguard ] [ 7576: 9884] CrashGuard global exception handler installed
+[2017-04-12 18:07:11.046] [info   ] [crashguard ] [ 7576: 9884] CrashGuard initialized successfully, external dumping enabled
+[2017-04-12 18:07:11.046] [info   ] [wsc        ] [ 7576: 9884] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-12 18:07:11.046] [info   ] [wsc        ] [ 7576:11412] Updating struct IWscAVStatus
+[2017-04-12 18:07:11.047] [info   ] [wsc        ] [ 7576:13752] Updating struct IWscASStatus
+[2017-04-12 18:07:11.066] [info   ] [wsc        ] [ 7576:11412] UpdateStatus succeeded: 0x00000000
+[2017-04-12 18:07:11.066] [info   ] [wsc        ] [ 7576:13752] UpdateStatus succeeded: 0x00000000
+[2017-04-13 01:14:43.149] [info   ] [settings   ] [ 4500: 4652] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-13 01:14:44.467] [info   ] [crashguard ] [ 4500: 4652] CrashGuard global exception handler installed
+[2017-04-13 01:14:44.468] [info   ] [crashguard ] [ 4500: 4652] CrashGuard initialized successfully, external dumping enabled
+[2017-04-13 01:14:44.470] [info   ] [wsc        ] [ 4500: 4652] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-13 01:14:44.471] [info   ] [wsc        ] [ 4500: 4864] Updating struct IWscAVStatus
+[2017-04-13 01:14:44.471] [info   ] [wsc        ] [ 4500: 4624] Updating struct IWscASStatus
+[2017-04-13 01:14:44.472] [notice ] [wsc        ] [ 4500: 4864] wscsvc state 2
+[2017-04-13 01:14:44.472] [notice ] [wsc        ] [ 4500: 4864] wscsvc is not running, starting now
+[2017-04-13 01:14:44.574] [info   ] [wsc        ] [ 4500: 4864] wsc service started successfully
+[2017-04-13 01:14:44.599] [info   ] [wsc        ] [ 4500: 4864] UpdateStatus succeeded: 0x00000000
+[2017-04-13 01:14:44.599] [info   ] [wsc        ] [ 4500: 4624] UpdateStatus succeeded: 0x00000000
+[2017-04-13 09:49:18.180] [info   ] [settings   ] [  756:  944] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-13 09:49:18.184] [info   ] [crashguard ] [  756:  944] CrashGuard global exception handler installed
+[2017-04-13 09:49:18.184] [info   ] [crashguard ] [  756:  944] CrashGuard initialized successfully, external dumping enabled
+[2017-04-13 09:49:18.184] [info   ] [wsc        ] [  756:  944] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-13 09:49:18.185] [info   ] [wsc        ] [  756: 7772] Updating struct IWscAVStatus
+[2017-04-13 09:49:18.185] [info   ] [wsc        ] [  756: 8892] Updating struct IWscASStatus
+[2017-04-13 09:49:18.230] [info   ] [wsc        ] [  756: 8892] UpdateStatus succeeded: 0x00000000
+[2017-04-13 09:49:18.230] [info   ] [wsc        ] [  756: 7772] UpdateStatus succeeded: 0x00000000
+[2017-04-13 14:00:22.174] [info   ] [settings   ] [ 4608: 4684] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-13 14:00:22.179] [info   ] [crashguard ] [ 4608: 4684] CrashGuard global exception handler installed
+[2017-04-13 14:00:22.179] [info   ] [crashguard ] [ 4608: 4684] CrashGuard initialized successfully, external dumping enabled
+[2017-04-13 14:00:22.180] [info   ] [wsc        ] [ 4608: 4684] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-13 14:00:22.181] [info   ] [wsc        ] [ 4608: 4284] Updating struct IWscAVStatus
+[2017-04-13 14:00:22.181] [info   ] [wsc        ] [ 4608: 4288] Updating struct IWscASStatus
+[2017-04-13 14:00:22.181] [notice ] [wsc        ] [ 4608: 4284] wscsvc state 2
+[2017-04-13 14:00:22.181] [notice ] [wsc        ] [ 4608: 4284] wscsvc is not running, starting now
+[2017-04-13 14:00:22.289] [info   ] [wsc        ] [ 4608: 4284] wsc service started successfully
+[2017-04-13 14:00:22.322] [info   ] [wsc        ] [ 4608: 4288] UpdateStatus succeeded: 0x00000000
+[2017-04-13 14:00:22.322] [info   ] [wsc        ] [ 4608: 4284] UpdateStatus succeeded: 0x00000000
+[2017-04-14 00:13:33.244] [info   ] [settings   ] [ 7620: 6432] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-14 00:13:33.250] [info   ] [crashguard ] [ 7620: 6432] CrashGuard global exception handler installed
+[2017-04-14 00:13:33.250] [info   ] [crashguard ] [ 7620: 6432] CrashGuard initialized successfully, external dumping enabled
+[2017-04-14 00:13:33.251] [info   ] [wsc        ] [ 7620: 6432] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-14 00:13:33.251] [info   ] [wsc        ] [ 7620: 6652] Updating struct IWscAVStatus
+[2017-04-14 00:13:33.251] [info   ] [wsc        ] [ 7620: 6100] Updating struct IWscASStatus
+[2017-04-14 00:13:33.278] [info   ] [wsc        ] [ 7620: 6652] UpdateStatus succeeded: 0x00000000
+[2017-04-14 00:13:33.278] [info   ] [wsc        ] [ 7620: 6100] UpdateStatus succeeded: 0x00000000
+[2017-04-14 13:06:04.103] [info   ] [settings   ] [ 6220: 6048] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-14 13:06:04.108] [info   ] [crashguard ] [ 6220: 6048] CrashGuard global exception handler installed
+[2017-04-14 13:06:04.108] [info   ] [crashguard ] [ 6220: 6048] CrashGuard initialized successfully, external dumping enabled
+[2017-04-14 13:06:04.108] [info   ] [wsc        ] [ 6220: 6048] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-14 13:06:04.109] [info   ] [wsc        ] [ 6220: 7872] Updating struct IWscAVStatus
+[2017-04-14 13:06:04.109] [info   ] [wsc        ] [ 6220: 8128] Updating struct IWscASStatus
+[2017-04-14 13:06:04.134] [info   ] [wsc        ] [ 6220: 7872] UpdateStatus succeeded: 0x00000000
+[2017-04-14 13:06:04.134] [info   ] [wsc        ] [ 6220: 8128] UpdateStatus succeeded: 0x00000000
+[2017-04-17 02:22:25.254] [info   ] [settings   ] [ 2756: 2760] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-17 02:22:25.389] [info   ] [crashguard ] [ 2756: 2760] CrashGuard global exception handler installed
+[2017-04-17 02:22:25.390] [info   ] [crashguard ] [ 2756: 2760] CrashGuard initialized successfully, external dumping enabled
+[2017-04-17 02:22:25.394] [info   ] [wsc        ] [ 2756: 2760] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-17 02:22:25.395] [info   ] [wsc        ] [ 2756: 5132] Updating struct IWscAVStatus
+[2017-04-17 02:22:25.395] [info   ] [wsc        ] [ 2756: 5136] Updating struct IWscASStatus
+[2017-04-17 02:22:25.396] [notice ] [wsc        ] [ 2756: 5132] wscsvc state 2
+[2017-04-17 02:22:25.396] [notice ] [wsc        ] [ 2756: 5132] wscsvc is not running, starting now
+[2017-04-17 02:22:25.498] [info   ] [wsc        ] [ 2756: 5132] wsc service started successfully
+[2017-04-17 02:22:25.521] [info   ] [wsc        ] [ 2756: 5132] UpdateStatus succeeded: 0x00000000
+[2017-04-17 02:22:25.521] [info   ] [wsc        ] [ 2756: 5136] UpdateStatus succeeded: 0x00000000
+[2017-04-17 07:02:37.658] [info   ] [settings   ] [12160:12168] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-17 07:02:37.661] [info   ] [crashguard ] [12160:12168] CrashGuard global exception handler installed
+[2017-04-17 07:02:37.662] [info   ] [crashguard ] [12160:12168] CrashGuard initialized successfully, external dumping enabled
+[2017-04-17 07:02:37.663] [info   ] [wsc        ] [12160:12168] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-17 07:02:37.663] [info   ] [wsc        ] [12160: 6644] Updating struct IWscAVStatus
+[2017-04-17 07:02:37.663] [info   ] [wsc        ] [12160: 5132] Updating struct IWscASStatus
+[2017-04-17 07:02:37.693] [info   ] [wsc        ] [12160: 6644] UpdateStatus succeeded: 0x00000000
+[2017-04-17 07:02:37.693] [info   ] [wsc        ] [12160: 5132] UpdateStatus succeeded: 0x00000000
+[2017-04-17 12:39:33.972] [info   ] [settings   ] [11216:11600] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-17 12:39:33.975] [info   ] [crashguard ] [11216:11600] CrashGuard global exception handler installed
+[2017-04-17 12:39:33.976] [info   ] [crashguard ] [11216:11600] CrashGuard initialized successfully, external dumping enabled
+[2017-04-17 12:39:33.976] [info   ] [wsc        ] [11216:11600] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-17 12:39:33.976] [info   ] [wsc        ] [11216:13544] Updating struct IWscAVStatus
+[2017-04-17 12:39:33.977] [info   ] [wsc        ] [11216:13532] Updating struct IWscASStatus
+[2017-04-17 12:39:33.997] [info   ] [wsc        ] [11216:13532] UpdateStatus succeeded: 0x00000000
+[2017-04-17 12:39:33.997] [info   ] [wsc        ] [11216:13544] UpdateStatus succeeded: 0x00000000
+[2017-04-18 21:43:33.527] [info   ] [settings   ] [14740: 5968] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-18 21:43:33.533] [info   ] [crashguard ] [14740: 5968] CrashGuard global exception handler installed
+[2017-04-18 21:43:33.534] [info   ] [crashguard ] [14740: 5968] CrashGuard initialized successfully, external dumping enabled
+[2017-04-18 21:43:33.535] [info   ] [wsc        ] [14740: 5968] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-18 21:43:33.536] [info   ] [wsc        ] [14740:11620] Updating struct IWscAVStatus
+[2017-04-18 21:43:33.536] [info   ] [wsc        ] [14740: 2716] Updating struct IWscASStatus
+[2017-04-18 21:43:33.580] [info   ] [wsc        ] [14740:11620] UpdateStatus succeeded: 0x00000000
+[2017-04-18 21:43:33.580] [info   ] [wsc        ] [14740: 2716] UpdateStatus succeeded: 0x00000000
+[2017-04-19 02:25:59.613] [info   ] [settings   ] [ 4912: 4948] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-19 02:25:59.619] [info   ] [crashguard ] [ 4912: 4948] CrashGuard global exception handler installed
+[2017-04-19 02:25:59.619] [info   ] [crashguard ] [ 4912: 4948] CrashGuard initialized successfully, external dumping enabled
+[2017-04-19 02:25:59.620] [info   ] [wsc        ] [ 4912: 4948] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-19 02:25:59.621] [info   ] [wsc        ] [ 4912: 5156] Updating struct IWscAVStatus
+[2017-04-19 02:25:59.621] [info   ] [wsc        ] [ 4912: 5160] Updating struct IWscASStatus
+[2017-04-19 02:25:59.621] [notice ] [wsc        ] [ 4912: 5156] wscsvc state 2
+[2017-04-19 02:25:59.621] [notice ] [wsc        ] [ 4912: 5156] wscsvc is not running, starting now
+[2017-04-19 02:25:59.722] [info   ] [wsc        ] [ 4912: 5156] wsc service started successfully
+[2017-04-19 02:25:59.746] [info   ] [wsc        ] [ 4912: 5160] UpdateStatus succeeded: 0x00000000
+[2017-04-19 02:25:59.746] [info   ] [wsc        ] [ 4912: 5156] UpdateStatus succeeded: 0x00000000
+[2017-04-20 03:12:51.502] [info   ] [settings   ] [  412: 5168] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-20 03:12:51.505] [info   ] [crashguard ] [  412: 5168] CrashGuard global exception handler installed
+[2017-04-20 03:12:51.505] [info   ] [crashguard ] [  412: 5168] CrashGuard initialized successfully, external dumping enabled
+[2017-04-20 03:12:51.506] [info   ] [wsc        ] [  412: 5168] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-20 03:12:51.507] [info   ] [wsc        ] [  412:10768] Updating struct IWscAVStatus
+[2017-04-20 03:12:51.507] [info   ] [wsc        ] [  412: 1904] Updating struct IWscASStatus
+[2017-04-20 03:12:51.527] [info   ] [wsc        ] [  412: 1904] UpdateStatus succeeded: 0x00000000
+[2017-04-20 03:12:51.527] [info   ] [wsc        ] [  412:10768] UpdateStatus succeeded: 0x00000000
+[2017-04-20 15:21:22.605] [info   ] [settings   ] [10036: 6852] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-20 15:21:22.611] [info   ] [crashguard ] [10036: 6852] CrashGuard global exception handler installed
+[2017-04-20 15:21:22.612] [info   ] [crashguard ] [10036: 6852] CrashGuard initialized successfully, external dumping enabled
+[2017-04-20 15:21:22.612] [info   ] [wsc        ] [10036: 6852] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-20 15:21:22.613] [info   ] [wsc        ] [10036: 7920] Updating struct IWscAVStatus
+[2017-04-20 15:21:22.613] [info   ] [wsc        ] [10036: 9512] Updating struct IWscASStatus
+[2017-04-20 15:21:22.647] [info   ] [wsc        ] [10036: 9512] UpdateStatus succeeded: 0x00000000
+[2017-04-20 15:21:22.647] [info   ] [wsc        ] [10036: 7920] UpdateStatus succeeded: 0x00000000
+[2017-04-22 02:47:00.422] [info   ] [settings   ] [ 8744: 6232] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-22 02:47:00.427] [info   ] [crashguard ] [ 8744: 6232] CrashGuard global exception handler installed
+[2017-04-22 02:47:00.427] [info   ] [crashguard ] [ 8744: 6232] CrashGuard initialized successfully, external dumping enabled
+[2017-04-22 02:47:00.428] [info   ] [wsc        ] [ 8744: 6232] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-22 02:47:00.428] [info   ] [wsc        ] [ 8744: 6952] Updating struct IWscAVStatus
+[2017-04-22 02:47:00.428] [info   ] [wsc        ] [ 8744:12324] Updating struct IWscASStatus
+[2017-04-22 02:47:00.460] [info   ] [wsc        ] [ 8744:12324] UpdateStatus succeeded: 0x00000000
+[2017-04-22 02:47:00.460] [info   ] [wsc        ] [ 8744: 6952] UpdateStatus succeeded: 0x00000000
+[2017-04-24 06:32:59.100] [info   ] [settings   ] [ 1688: 8328] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-24 06:32:59.104] [info   ] [crashguard ] [ 1688: 8328] CrashGuard global exception handler installed
+[2017-04-24 06:32:59.104] [info   ] [crashguard ] [ 1688: 8328] CrashGuard initialized successfully, external dumping enabled
+[2017-04-24 06:32:59.104] [info   ] [wsc        ] [ 1688: 8328] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-24 06:32:59.105] [info   ] [wsc        ] [ 1688: 2780] Updating struct IWscAVStatus
+[2017-04-24 06:32:59.105] [info   ] [wsc        ] [ 1688: 6296] Updating struct IWscASStatus
+[2017-04-24 06:32:59.131] [info   ] [wsc        ] [ 1688: 2780] UpdateStatus succeeded: 0x00000000
+[2017-04-24 06:32:59.131] [info   ] [wsc        ] [ 1688: 6296] UpdateStatus succeeded: 0x00000000
+[2017-04-24 13:57:50.177] [info   ] [settings   ] [13444:13996] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-24 13:57:50.180] [info   ] [crashguard ] [13444:13996] CrashGuard global exception handler installed
+[2017-04-24 13:57:50.181] [info   ] [crashguard ] [13444:13996] CrashGuard initialized successfully, external dumping enabled
+[2017-04-24 13:57:50.181] [info   ] [wsc        ] [13444:13996] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-24 13:57:50.182] [info   ] [wsc        ] [13444:  708] Updating struct IWscAVStatus
+[2017-04-24 13:57:50.182] [info   ] [wsc        ] [13444:10868] Updating struct IWscASStatus
+[2017-04-24 13:57:50.206] [info   ] [wsc        ] [13444:10868] UpdateStatus succeeded: 0x00000000
+[2017-04-24 13:57:50.206] [info   ] [wsc        ] [13444:  708] UpdateStatus succeeded: 0x00000000
+[2017-04-26 03:54:33.674] [info   ] [settings   ] [ 5248: 5252] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-26 03:54:33.681] [info   ] [crashguard ] [ 5248: 5252] CrashGuard global exception handler installed
+[2017-04-26 03:54:33.681] [info   ] [crashguard ] [ 5248: 5252] CrashGuard initialized successfully, external dumping enabled
+[2017-04-26 03:54:33.682] [info   ] [wsc        ] [ 5248: 5252] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-26 03:54:33.682] [info   ] [wsc        ] [ 5248: 5340] Updating struct IWscAVStatus
+[2017-04-26 03:54:33.682] [info   ] [wsc        ] [ 5248: 5344] Updating struct IWscASStatus
+[2017-04-26 03:54:33.683] [notice ] [wsc        ] [ 5248: 5340] wscsvc state 2
+[2017-04-26 03:54:33.683] [notice ] [wsc        ] [ 5248: 5340] wscsvc is not running, starting now
+[2017-04-26 03:54:33.784] [info   ] [wsc        ] [ 5248: 5340] wsc service started successfully
+[2017-04-26 03:54:33.806] [info   ] [wsc        ] [ 5248: 5344] UpdateStatus succeeded: 0x00000000
+[2017-04-26 03:54:33.806] [info   ] [wsc        ] [ 5248: 5340] UpdateStatus succeeded: 0x00000000
+[2017-04-26 03:55:03.591] [info   ] [settings   ] [ 5572: 5568] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-26 03:55:03.594] [info   ] [crashguard ] [ 5572: 5568] CrashGuard global exception handler installed
+[2017-04-26 03:55:03.594] [info   ] [crashguard ] [ 5572: 5568] CrashGuard initialized successfully, external dumping enabled
+[2017-04-26 03:55:03.594] [info   ] [wsc        ] [ 5572: 5568] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-26 03:55:03.594] [info   ] [wsc        ] [ 5572: 6024] Updating struct IWscAVStatus
+[2017-04-26 03:55:03.594] [info   ] [wsc        ] [ 5572: 6028] Updating struct IWscASStatus
+[2017-04-26 03:55:03.608] [info   ] [wsc        ] [ 5572: 6028] UpdateStatus succeeded: 0x00000000
+[2017-04-26 03:55:03.608] [info   ] [wsc        ] [ 5572: 6024] UpdateStatus succeeded: 0x00000000
+[2017-04-27 06:35:31.841] [info   ] [settings   ] [13100:12096] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-27 06:35:31.845] [info   ] [crashguard ] [13100:12096] CrashGuard global exception handler installed
+[2017-04-27 06:35:31.845] [info   ] [crashguard ] [13100:12096] CrashGuard initialized successfully, external dumping enabled
+[2017-04-27 06:35:31.846] [info   ] [wsc        ] [13100:12096] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-27 06:35:31.847] [info   ] [wsc        ] [13100:13184] Updating struct IWscAVStatus
+[2017-04-27 06:35:31.847] [info   ] [wsc        ] [13100:11588] Updating struct IWscASStatus
+[2017-04-27 06:35:31.868] [info   ] [wsc        ] [13100:11588] UpdateStatus succeeded: 0x00000000
+[2017-04-27 06:35:31.868] [info   ] [wsc        ] [13100:13184] UpdateStatus succeeded: 0x00000000
+[2017-04-27 14:37:49.843] [info   ] [settings   ] [12552: 5536] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-27 14:37:49.847] [info   ] [crashguard ] [12552: 5536] CrashGuard global exception handler installed
+[2017-04-27 14:37:49.847] [info   ] [crashguard ] [12552: 5536] CrashGuard initialized successfully, external dumping enabled
+[2017-04-27 14:37:49.848] [info   ] [wsc        ] [12552: 5536] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-27 14:37:49.848] [info   ] [wsc        ] [12552: 8560] Updating struct IWscAVStatus
+[2017-04-27 14:37:49.849] [info   ] [wsc        ] [12552:12308] Updating struct IWscASStatus
+[2017-04-27 14:37:49.871] [info   ] [wsc        ] [12552:12308] UpdateStatus succeeded: 0x00000000
+[2017-04-27 14:37:49.871] [info   ] [wsc        ] [12552: 8560] UpdateStatus succeeded: 0x00000000
+[2017-04-28 14:11:23.228] [info   ] [settings   ] [10104: 1592] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-04-28 14:11:23.231] [info   ] [crashguard ] [10104: 1592] CrashGuard global exception handler installed
+[2017-04-28 14:11:23.231] [info   ] [crashguard ] [10104: 1592] CrashGuard initialized successfully, external dumping enabled
+[2017-04-28 14:11:23.232] [info   ] [wsc        ] [10104: 1592] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-04-28 14:11:23.232] [info   ] [wsc        ] [10104: 8556] Updating struct IWscAVStatus
+[2017-04-28 14:11:23.232] [info   ] [wsc        ] [10104:11704] Updating struct IWscASStatus
+[2017-04-28 14:11:23.252] [info   ] [wsc        ] [10104:11704] UpdateStatus succeeded: 0x00000000
+[2017-04-28 14:11:23.252] [info   ] [wsc        ] [10104: 8556] UpdateStatus succeeded: 0x00000000
+[2017-05-01 09:26:35.394] [info   ] [settings   ] [ 4104:12480] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-01 09:26:35.397] [info   ] [crashguard ] [ 4104:12480] CrashGuard global exception handler installed
+[2017-05-01 09:26:35.397] [info   ] [crashguard ] [ 4104:12480] CrashGuard initialized successfully, external dumping enabled
+[2017-05-01 09:26:35.398] [info   ] [wsc        ] [ 4104:12480] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-01 09:26:35.398] [info   ] [wsc        ] [ 4104: 3892] Updating struct IWscAVStatus
+[2017-05-01 09:26:35.398] [info   ] [wsc        ] [ 4104: 1432] Updating struct IWscASStatus
+[2017-05-01 09:26:35.420] [info   ] [wsc        ] [ 4104: 1432] UpdateStatus succeeded: 0x00000000
+[2017-05-01 09:26:35.420] [info   ] [wsc        ] [ 4104: 3892] UpdateStatus succeeded: 0x00000000
+[2017-05-01 12:07:16.627] [info   ] [settings   ] [ 4456: 4660] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-01 12:07:16.631] [info   ] [crashguard ] [ 4456: 4660] CrashGuard global exception handler installed
+[2017-05-01 12:07:16.631] [info   ] [crashguard ] [ 4456: 4660] CrashGuard initialized successfully, external dumping enabled
+[2017-05-01 12:07:16.632] [info   ] [wsc        ] [ 4456: 4660] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-01 12:07:16.632] [info   ] [wsc        ] [ 4456: 4828] Updating struct IWscAVStatus
+[2017-05-01 12:07:16.632] [info   ] [wsc        ] [ 4456: 4824] Updating struct IWscASStatus
+[2017-05-01 12:07:16.633] [notice ] [wsc        ] [ 4456: 4828] wscsvc state 2
+[2017-05-01 12:07:16.633] [notice ] [wsc        ] [ 4456: 4828] wscsvc is not running, starting now
+[2017-05-01 12:07:16.735] [info   ] [wsc        ] [ 4456: 4828] wsc service started successfully
+[2017-05-01 12:07:16.759] [info   ] [wsc        ] [ 4456: 4828] UpdateStatus succeeded: 0x00000000
+[2017-05-01 12:07:16.759] [info   ] [wsc        ] [ 4456: 4824] UpdateStatus succeeded: 0x00000000
+[2017-05-01 12:08:20.142] [info   ] [settings   ] [ 5548: 5552] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-01 12:08:20.145] [info   ] [crashguard ] [ 5548: 5552] CrashGuard global exception handler installed
+[2017-05-01 12:08:20.146] [info   ] [crashguard ] [ 5548: 5552] CrashGuard initialized successfully, external dumping enabled
+[2017-05-01 12:08:20.146] [info   ] [wsc        ] [ 5548: 5552] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-01 12:08:20.146] [info   ] [wsc        ] [ 5548: 9672] Updating struct IWscAVStatus
+[2017-05-01 12:08:20.146] [info   ] [wsc        ] [ 5548: 9664] Updating struct IWscASStatus
+[2017-05-01 12:08:20.163] [info   ] [wsc        ] [ 5548: 9664] UpdateStatus succeeded: 0x00000000
+[2017-05-01 12:08:20.163] [info   ] [wsc        ] [ 5548: 9672] UpdateStatus succeeded: 0x00000000
+[2017-05-02 23:54:18.017] [info   ] [settings   ] [ 4700: 4696] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-02 23:54:18.022] [info   ] [crashguard ] [ 4700: 4696] CrashGuard global exception handler installed
+[2017-05-02 23:54:18.022] [info   ] [crashguard ] [ 4700: 4696] CrashGuard initialized successfully, external dumping enabled
+[2017-05-02 23:54:18.023] [info   ] [wsc        ] [ 4700: 4696] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-02 23:54:18.024] [info   ] [wsc        ] [ 4700: 3900] Updating struct IWscAVStatus
+[2017-05-02 23:54:18.024] [info   ] [wsc        ] [ 4700: 1948] Updating struct IWscASStatus
+[2017-05-02 23:54:18.024] [notice ] [wsc        ] [ 4700: 3900] wscsvc state 2
+[2017-05-02 23:54:18.024] [notice ] [wsc        ] [ 4700: 3900] wscsvc is not running, starting now
+[2017-05-02 23:54:18.127] [info   ] [wsc        ] [ 4700: 3900] wsc service started successfully
+[2017-05-02 23:54:18.152] [info   ] [wsc        ] [ 4700: 1948] UpdateStatus succeeded: 0x00000000
+[2017-05-02 23:54:18.152] [info   ] [wsc        ] [ 4700: 3900] UpdateStatus succeeded: 0x00000000
+[2017-05-03 03:56:06.153] [info   ] [settings   ] [ 4800: 2720] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-03 03:56:06.160] [info   ] [crashguard ] [ 4800: 2720] CrashGuard global exception handler installed
+[2017-05-03 03:56:06.160] [info   ] [crashguard ] [ 4800: 2720] CrashGuard initialized successfully, external dumping enabled
+[2017-05-03 03:56:06.161] [info   ] [wsc        ] [ 4800: 2720] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-03 03:56:06.162] [info   ] [wsc        ] [ 4800:10936] Updating struct IWscAVStatus
+[2017-05-03 03:56:06.162] [info   ] [wsc        ] [ 4800: 2504] Updating struct IWscASStatus
+[2017-05-03 03:56:06.198] [info   ] [wsc        ] [ 4800:10936] UpdateStatus succeeded: 0x00000000
+[2017-05-03 03:56:06.198] [info   ] [wsc        ] [ 4800: 2504] UpdateStatus succeeded: 0x00000000
+[2017-05-04 06:14:29.708] [info   ] [settings   ] [11652:12704] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-04 06:14:29.712] [info   ] [crashguard ] [11652:12704] CrashGuard global exception handler installed
+[2017-05-04 06:14:29.712] [info   ] [crashguard ] [11652:12704] CrashGuard initialized successfully, external dumping enabled
+[2017-05-04 06:14:29.712] [info   ] [wsc        ] [11652:12704] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-04 06:14:29.713] [info   ] [wsc        ] [11652: 7120] Updating struct IWscAVStatus
+[2017-05-04 06:14:29.713] [info   ] [wsc        ] [11652:10112] Updating struct IWscASStatus
+[2017-05-04 06:14:29.733] [info   ] [wsc        ] [11652: 7120] UpdateStatus succeeded: 0x00000000
+[2017-05-04 06:14:29.733] [info   ] [wsc        ] [11652:10112] UpdateStatus succeeded: 0x00000000
+[2017-05-05 05:58:14.646] [info   ] [settings   ] [13556:10504] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-05 05:58:14.649] [info   ] [crashguard ] [13556:10504] CrashGuard global exception handler installed
+[2017-05-05 05:58:14.649] [info   ] [crashguard ] [13556:10504] CrashGuard initialized successfully, external dumping enabled
+[2017-05-05 05:58:14.650] [info   ] [wsc        ] [13556:10504] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-05 05:58:14.651] [info   ] [wsc        ] [13556:  432] Updating struct IWscAVStatus
+[2017-05-05 05:58:14.651] [info   ] [wsc        ] [13556:13768] Updating struct IWscASStatus
+[2017-05-05 05:58:14.673] [info   ] [wsc        ] [13556:13768] UpdateStatus succeeded: 0x00000000
+[2017-05-05 05:58:14.673] [info   ] [wsc        ] [13556:  432] UpdateStatus succeeded: 0x00000000
+[2017-05-07 21:21:16.521] [info   ] [settings   ] [13916: 5900] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-07 21:21:16.524] [info   ] [crashguard ] [13916: 5900] CrashGuard global exception handler installed
+[2017-05-07 21:21:16.524] [info   ] [crashguard ] [13916: 5900] CrashGuard initialized successfully, external dumping enabled
+[2017-05-07 21:21:16.525] [info   ] [wsc        ] [13916: 5900] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-07 21:21:16.525] [info   ] [wsc        ] [13916:12748] Updating struct IWscAVStatus
+[2017-05-07 21:21:16.526] [info   ] [wsc        ] [13916: 9764] Updating struct IWscASStatus
+[2017-05-07 21:21:17.178] [info   ] [wsc        ] [13916:12748] UpdateStatus succeeded: 0x00000000
+[2017-05-07 21:21:17.178] [info   ] [wsc        ] [13916: 9764] UpdateStatus succeeded: 0x00000000
+[2017-05-07 21:28:29.239] [info   ] [settings   ] [ 5344: 5348] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-07 21:28:29.245] [info   ] [crashguard ] [ 5344: 5348] CrashGuard global exception handler installed
+[2017-05-07 21:28:29.245] [info   ] [crashguard ] [ 5344: 5348] CrashGuard initialized successfully, external dumping enabled
+[2017-05-07 21:28:29.246] [info   ] [wsc        ] [ 5344: 5348] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-07 21:28:29.247] [info   ] [wsc        ] [ 5344: 5552] Updating struct IWscAVStatus
+[2017-05-07 21:28:29.248] [info   ] [wsc        ] [ 5344: 5556] Updating struct IWscASStatus
+[2017-05-07 21:28:29.248] [notice ] [wsc        ] [ 5344: 5552] wscsvc state 2
+[2017-05-07 21:28:29.248] [notice ] [wsc        ] [ 5344: 5552] wscsvc is not running, starting now
+[2017-05-07 21:28:29.351] [info   ] [wsc        ] [ 5344: 5552] wsc service started successfully
+[2017-05-07 21:28:29.391] [info   ] [wsc        ] [ 5344: 5556] UpdateStatus succeeded: 0x00000000
+[2017-05-07 21:28:29.391] [info   ] [wsc        ] [ 5344: 5552] UpdateStatus succeeded: 0x00000000
+[2017-05-09 07:44:42.843] [info   ] [settings   ] [ 7352:  844] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-09 07:44:42.847] [info   ] [crashguard ] [ 7352:  844] CrashGuard global exception handler installed
+[2017-05-09 07:44:42.847] [info   ] [crashguard ] [ 7352:  844] CrashGuard initialized successfully, external dumping enabled
+[2017-05-09 07:44:42.847] [info   ] [wsc        ] [ 7352:  844] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-09 07:44:42.848] [info   ] [wsc        ] [ 7352: 5764] Updating struct IWscAVStatus
+[2017-05-09 07:44:42.848] [info   ] [wsc        ] [ 7352: 8392] Updating struct IWscASStatus
+[2017-05-09 07:44:42.867] [info   ] [wsc        ] [ 7352: 5764] UpdateStatus succeeded: 0x00000000
+[2017-05-09 07:44:42.867] [info   ] [wsc        ] [ 7352: 8392] UpdateStatus succeeded: 0x00000000
+[2017-05-10 23:17:24.583] [info   ] [settings   ] [11020: 4900] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-10 23:17:24.586] [info   ] [crashguard ] [11020: 4900] CrashGuard global exception handler installed
+[2017-05-10 23:17:24.586] [info   ] [crashguard ] [11020: 4900] CrashGuard initialized successfully, external dumping enabled
+[2017-05-10 23:17:24.587] [info   ] [wsc        ] [11020: 4900] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-10 23:17:24.587] [info   ] [wsc        ] [11020: 8576] Updating struct IWscAVStatus
+[2017-05-10 23:17:24.587] [info   ] [wsc        ] [11020: 8312] Updating struct IWscASStatus
+[2017-05-10 23:17:24.604] [info   ] [wsc        ] [11020: 8312] UpdateStatus succeeded: 0x00000000
+[2017-05-10 23:17:24.604] [info   ] [wsc        ] [11020: 8576] UpdateStatus succeeded: 0x00000000
+[2017-05-11 09:36:03.341] [info   ] [settings   ] [11480:11484] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-11 09:36:03.347] [info   ] [crashguard ] [11480:11484] CrashGuard global exception handler installed
+[2017-05-11 09:36:03.347] [info   ] [crashguard ] [11480:11484] CrashGuard initialized successfully, external dumping enabled
+[2017-05-11 09:36:03.348] [info   ] [wsc        ] [11480:11484] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-11 09:36:03.348] [info   ] [wsc        ] [11480:11540] Updating struct IWscAVStatus
+[2017-05-11 09:36:03.348] [info   ] [wsc        ] [11480:11544] Updating struct IWscASStatus
+[2017-05-11 09:36:03.383] [info   ] [wsc        ] [11480:11544] UpdateStatus succeeded: 0x00000000
+[2017-05-11 09:36:03.383] [info   ] [wsc        ] [11480:11540] UpdateStatus succeeded: 0x00000000
+[2017-05-15 06:47:58.307] [info   ] [settings   ] [12052: 7628] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-15 06:47:58.310] [info   ] [crashguard ] [12052: 7628] CrashGuard global exception handler installed
+[2017-05-15 06:47:58.311] [info   ] [crashguard ] [12052: 7628] CrashGuard initialized successfully, external dumping enabled
+[2017-05-15 06:47:58.311] [info   ] [wsc        ] [12052: 7628] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-15 06:47:58.313] [info   ] [wsc        ] [12052: 6460] Updating struct IWscAVStatus
+[2017-05-15 06:47:58.313] [info   ] [wsc        ] [12052: 9168] Updating struct IWscASStatus
+[2017-05-15 06:47:58.335] [info   ] [wsc        ] [12052: 9168] UpdateStatus succeeded: 0x00000000
+[2017-05-15 06:47:58.335] [info   ] [wsc        ] [12052: 6460] UpdateStatus succeeded: 0x00000000
+[2017-05-16 03:35:57.241] [info   ] [settings   ] [13132:12468] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-16 03:35:57.245] [info   ] [crashguard ] [13132:12468] CrashGuard global exception handler installed
+[2017-05-16 03:35:57.245] [info   ] [crashguard ] [13132:12468] CrashGuard initialized successfully, external dumping enabled
+[2017-05-16 03:35:57.245] [info   ] [wsc        ] [13132:12468] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-16 03:35:57.246] [info   ] [wsc        ] [13132:12696] Updating struct IWscAVStatus
+[2017-05-16 03:35:57.246] [info   ] [wsc        ] [13132:13088] Updating struct IWscASStatus
+[2017-05-16 03:35:57.267] [info   ] [wsc        ] [13132:12696] UpdateStatus succeeded: 0x00000000
+[2017-05-16 03:35:57.267] [info   ] [wsc        ] [13132:13088] UpdateStatus succeeded: 0x00000000
+[2017-05-17 01:28:36.054] [info   ] [settings   ] [ 4744: 4152] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-17 01:28:36.062] [info   ] [crashguard ] [ 4744: 4152] CrashGuard global exception handler installed
+[2017-05-17 01:28:36.062] [info   ] [crashguard ] [ 4744: 4152] CrashGuard initialized successfully, external dumping enabled
+[2017-05-17 01:28:36.063] [info   ] [wsc        ] [ 4744: 4152] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-17 01:28:36.064] [info   ] [wsc        ] [ 4744: 3840] Updating struct IWscAVStatus
+[2017-05-17 01:28:36.064] [info   ] [wsc        ] [ 4744: 3852] Updating struct IWscASStatus
+[2017-05-17 01:28:36.065] [notice ] [wsc        ] [ 4744: 3840] wscsvc state 2
+[2017-05-17 01:28:36.065] [notice ] [wsc        ] [ 4744: 3840] wscsvc is not running, starting now
+[2017-05-17 01:28:36.166] [info   ] [wsc        ] [ 4744: 3840] wsc service started successfully
+[2017-05-17 01:28:36.200] [info   ] [wsc        ] [ 4744: 3840] UpdateStatus succeeded: 0x00000000
+[2017-05-17 01:28:36.200] [info   ] [wsc        ] [ 4744: 3852] UpdateStatus succeeded: 0x00000000
+[2017-05-17 06:18:44.351] [info   ] [settings   ] [11828:11832] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-17 06:18:44.355] [info   ] [crashguard ] [11828:11832] CrashGuard global exception handler installed
+[2017-05-17 06:18:44.355] [info   ] [crashguard ] [11828:11832] CrashGuard initialized successfully, external dumping enabled
+[2017-05-17 06:18:44.355] [info   ] [wsc        ] [11828:11832] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-17 06:18:44.355] [info   ] [wsc        ] [11828:11860] Updating struct IWscAVStatus
+[2017-05-17 06:18:44.355] [info   ] [wsc        ] [11828:11864] Updating struct IWscASStatus
+[2017-05-17 06:18:44.372] [info   ] [wsc        ] [11828:11860] UpdateStatus succeeded: 0x00000000
+[2017-05-17 06:18:44.372] [info   ] [wsc        ] [11828:11864] UpdateStatus succeeded: 0x00000000
+[2017-05-17 14:21:05.411] [info   ] [settings   ] [ 1428: 1124] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-17 14:21:05.415] [info   ] [crashguard ] [ 1428: 1124] CrashGuard global exception handler installed
+[2017-05-17 14:21:05.415] [info   ] [crashguard ] [ 1428: 1124] CrashGuard initialized successfully, external dumping enabled
+[2017-05-17 14:21:05.415] [info   ] [wsc        ] [ 1428: 1124] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-17 14:21:05.416] [info   ] [wsc        ] [ 1428:10360] Updating struct IWscAVStatus
+[2017-05-17 14:21:05.416] [info   ] [wsc        ] [ 1428: 8464] Updating struct IWscASStatus
+[2017-05-17 14:21:05.436] [info   ] [wsc        ] [ 1428:10360] UpdateStatus succeeded: 0x00000000
+[2017-05-17 14:21:05.436] [info   ] [wsc        ] [ 1428: 8464] UpdateStatus succeeded: 0x00000000
+[2017-05-18 01:56:05.517] [info   ] [settings   ] [ 4528: 5140] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-18 01:56:05.521] [info   ] [crashguard ] [ 4528: 5140] CrashGuard global exception handler installed
+[2017-05-18 01:56:05.521] [info   ] [crashguard ] [ 4528: 5140] CrashGuard initialized successfully, external dumping enabled
+[2017-05-18 01:56:05.522] [info   ] [wsc        ] [ 4528: 5140] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-18 01:56:05.523] [info   ] [wsc        ] [ 4528: 6152] Updating struct IWscAVStatus
+[2017-05-18 01:56:05.523] [info   ] [wsc        ] [ 4528:10636] Updating struct IWscASStatus
+[2017-05-18 01:56:05.541] [info   ] [wsc        ] [ 4528: 6152] UpdateStatus succeeded: 0x00000000
+[2017-05-18 01:56:05.541] [info   ] [wsc        ] [ 4528:10636] UpdateStatus succeeded: 0x00000000
+[2017-05-18 08:24:49.439] [info   ] [settings   ] [ 5132: 5136] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-18 08:24:49.583] [info   ] [crashguard ] [ 5132: 5136] CrashGuard global exception handler installed
+[2017-05-18 08:24:49.583] [info   ] [crashguard ] [ 5132: 5136] CrashGuard initialized successfully, external dumping enabled
+[2017-05-18 08:24:49.589] [info   ] [wsc        ] [ 5132: 5136] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-18 08:24:49.590] [info   ] [wsc        ] [ 5132: 5248] Updating struct IWscAVStatus
+[2017-05-18 08:24:49.590] [info   ] [wsc        ] [ 5132: 5252] Updating struct IWscASStatus
+[2017-05-18 08:24:49.590] [notice ] [wsc        ] [ 5132: 5248] wscsvc state 2
+[2017-05-18 08:24:49.590] [notice ] [wsc        ] [ 5132: 5248] wscsvc is not running, starting now
+[2017-05-18 08:24:49.692] [info   ] [wsc        ] [ 5132: 5248] wsc service started successfully
+[2017-05-18 08:24:49.718] [info   ] [wsc        ] [ 5132: 5252] UpdateStatus succeeded: 0x00000000
+[2017-05-18 08:24:49.718] [info   ] [wsc        ] [ 5132: 5248] UpdateStatus succeeded: 0x00000000
+[2017-05-18 12:26:07.341] [info   ] [settings   ] [ 1684: 3116] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-18 12:26:07.346] [info   ] [crashguard ] [ 1684: 3116] CrashGuard global exception handler installed
+[2017-05-18 12:26:07.346] [info   ] [crashguard ] [ 1684: 3116] CrashGuard initialized successfully, external dumping enabled
+[2017-05-18 12:26:07.347] [info   ] [wsc        ] [ 1684: 3116] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-18 12:26:07.347] [info   ] [wsc        ] [ 1684: 1876] Updating struct IWscAVStatus
+[2017-05-18 12:26:07.348] [info   ] [wsc        ] [ 1684:10428] Updating struct IWscASStatus
+[2017-05-18 12:26:07.376] [info   ] [wsc        ] [ 1684: 1876] UpdateStatus succeeded: 0x00000000
+[2017-05-18 12:26:07.376] [info   ] [wsc        ] [ 1684:10428] UpdateStatus succeeded: 0x00000000
+[2017-05-19 05:49:19.136] [info   ] [settings   ] [ 8384: 9280] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-19 05:49:19.144] [info   ] [crashguard ] [ 8384: 9280] CrashGuard global exception handler installed
+[2017-05-19 05:49:19.144] [info   ] [crashguard ] [ 8384: 9280] CrashGuard initialized successfully, external dumping enabled
+[2017-05-19 05:49:19.145] [info   ] [wsc        ] [ 8384: 9280] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-19 05:49:19.146] [info   ] [wsc        ] [ 8384: 7348] Updating struct IWscAVStatus
+[2017-05-19 05:49:19.147] [info   ] [wsc        ] [ 8384: 8944] Updating struct IWscASStatus
+[2017-05-19 05:49:19.217] [info   ] [wsc        ] [ 8384: 8944] UpdateStatus succeeded: 0x00000000
+[2017-05-19 05:49:19.217] [info   ] [wsc        ] [ 8384: 7348] UpdateStatus succeeded: 0x00000000
+[2017-05-20 03:32:27.652] [info   ] [settings   ] [ 7432: 1636] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-20 03:32:27.657] [info   ] [crashguard ] [ 7432: 1636] CrashGuard global exception handler installed
+[2017-05-20 03:32:27.657] [info   ] [crashguard ] [ 7432: 1636] CrashGuard initialized successfully, external dumping enabled
+[2017-05-20 03:32:27.658] [info   ] [wsc        ] [ 7432: 1636] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-20 03:32:27.658] [info   ] [wsc        ] [ 7432: 7080] Updating struct IWscAVStatus
+[2017-05-20 03:32:27.659] [info   ] [wsc        ] [ 7432:11912] Updating struct IWscASStatus
+[2017-05-20 03:32:27.683] [info   ] [wsc        ] [ 7432:11912] UpdateStatus succeeded: 0x00000000
+[2017-05-20 03:32:27.683] [info   ] [wsc        ] [ 7432: 7080] UpdateStatus succeeded: 0x00000000
+[2017-05-22 01:43:52.814] [info   ] [settings   ] [ 5144: 5148] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-22 01:43:52.993] [info   ] [crashguard ] [ 5144: 5148] CrashGuard global exception handler installed
+[2017-05-22 01:43:52.993] [info   ] [crashguard ] [ 5144: 5148] CrashGuard initialized successfully, external dumping enabled
+[2017-05-22 01:43:52.994] [info   ] [wsc        ] [ 5144: 5148] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-22 01:43:52.997] [info   ] [wsc        ] [ 5144: 5276] Updating struct IWscAVStatus
+[2017-05-22 01:43:52.997] [info   ] [wsc        ] [ 5144: 5280] Updating struct IWscASStatus
+[2017-05-22 01:43:52.998] [notice ] [wsc        ] [ 5144: 5276] wscsvc state 2
+[2017-05-22 01:43:52.998] [notice ] [wsc        ] [ 5144: 5276] wscsvc is not running, starting now
+[2017-05-22 01:43:53.100] [info   ] [wsc        ] [ 5144: 5276] wsc service started successfully
+[2017-05-22 01:43:53.126] [info   ] [wsc        ] [ 5144: 5276] UpdateStatus succeeded: 0x00000000
+[2017-05-22 01:43:53.126] [info   ] [wsc        ] [ 5144: 5280] UpdateStatus succeeded: 0x00000000
+[2017-05-22 06:34:48.487] [info   ] [settings   ] [10716:10836] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-22 06:34:48.491] [info   ] [crashguard ] [10716:10836] CrashGuard global exception handler installed
+[2017-05-22 06:34:48.491] [info   ] [crashguard ] [10716:10836] CrashGuard initialized successfully, external dumping enabled
+[2017-05-22 06:34:48.491] [info   ] [wsc        ] [10716:10836] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-22 06:34:48.491] [info   ] [wsc        ] [10716:11220] Updating struct IWscAVStatus
+[2017-05-22 06:34:48.491] [info   ] [wsc        ] [10716: 1456] Updating struct IWscASStatus
+[2017-05-22 06:34:48.508] [info   ] [wsc        ] [10716: 1456] UpdateStatus succeeded: 0x00000000
+[2017-05-22 06:34:48.508] [info   ] [wsc        ] [10716:11220] UpdateStatus succeeded: 0x00000000
+[2017-05-22 08:39:40.018] [info   ] [settings   ] [ 3580: 9144] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-22 08:39:40.021] [info   ] [crashguard ] [ 3580: 9144] CrashGuard global exception handler installed
+[2017-05-22 08:39:40.021] [info   ] [crashguard ] [ 3580: 9144] CrashGuard initialized successfully, external dumping enabled
+[2017-05-22 08:39:40.022] [info   ] [wsc        ] [ 3580: 9144] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-22 08:39:40.022] [info   ] [wsc        ] [ 3580:10808] Updating struct IWscAVStatus
+[2017-05-22 08:39:40.022] [info   ] [wsc        ] [ 3580: 7552] Updating struct IWscASStatus
+[2017-05-22 08:39:40.038] [info   ] [wsc        ] [ 3580:10808] UpdateStatus succeeded: 0x00000000
+[2017-05-22 08:39:40.038] [info   ] [wsc        ] [ 3580: 7552] UpdateStatus succeeded: 0x00000000
+[2017-05-23 07:02:46.133] [info   ] [settings   ] [ 4616: 4540] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-23 07:02:46.286] [info   ] [crashguard ] [ 4616: 4540] CrashGuard global exception handler installed
+[2017-05-23 07:02:46.286] [info   ] [crashguard ] [ 4616: 4540] CrashGuard initialized successfully, external dumping enabled
+[2017-05-23 07:02:46.289] [info   ] [wsc        ] [ 4616: 4540] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-23 07:02:46.290] [info   ] [wsc        ] [ 4616: 1956] Updating struct IWscAVStatus
+[2017-05-23 07:02:46.290] [info   ] [wsc        ] [ 4616: 2824] Updating struct IWscASStatus
+[2017-05-23 07:02:46.291] [notice ] [wsc        ] [ 4616: 1956] wscsvc state 2
+[2017-05-23 07:02:46.291] [notice ] [wsc        ] [ 4616: 1956] wscsvc is not running, starting now
+[2017-05-23 07:02:46.393] [info   ] [wsc        ] [ 4616: 1956] wsc service started successfully
+[2017-05-23 07:02:46.417] [info   ] [wsc        ] [ 4616: 2824] UpdateStatus succeeded: 0x00000000
+[2017-05-23 07:02:46.417] [info   ] [wsc        ] [ 4616: 1956] UpdateStatus succeeded: 0x00000000
+[2017-05-24 01:53:59.292] [info   ] [settings   ] [ 4348: 9192] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-24 01:53:59.299] [info   ] [crashguard ] [ 4348: 9192] CrashGuard global exception handler installed
+[2017-05-24 01:53:59.299] [info   ] [crashguard ] [ 4348: 9192] CrashGuard initialized successfully, external dumping enabled
+[2017-05-24 01:53:59.300] [info   ] [wsc        ] [ 4348: 9192] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-24 01:53:59.301] [info   ] [wsc        ] [ 4348: 7936] Updating struct IWscAVStatus
+[2017-05-24 01:53:59.301] [info   ] [wsc        ] [ 4348: 8136] Updating struct IWscASStatus
+[2017-05-24 01:53:59.322] [info   ] [wsc        ] [ 4348: 8136] UpdateStatus succeeded: 0x00000000
+[2017-05-24 01:53:59.322] [info   ] [wsc        ] [ 4348: 7936] UpdateStatus succeeded: 0x00000000
+[2017-05-26 03:15:43.044] [info   ] [settings   ] [ 1704: 1136] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-26 03:15:43.049] [info   ] [crashguard ] [ 1704: 1136] CrashGuard global exception handler installed
+[2017-05-26 03:15:43.049] [info   ] [crashguard ] [ 1704: 1136] CrashGuard initialized successfully, external dumping enabled
+[2017-05-26 03:15:43.050] [info   ] [wsc        ] [ 1704: 1136] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-26 03:15:43.051] [info   ] [wsc        ] [ 1704:11756] Updating struct IWscAVStatus
+[2017-05-26 03:15:43.051] [info   ] [wsc        ] [ 1704: 7072] Updating struct IWscASStatus
+[2017-05-26 03:15:43.079] [info   ] [wsc        ] [ 1704: 7072] UpdateStatus succeeded: 0x00000000
+[2017-05-26 03:15:43.079] [info   ] [wsc        ] [ 1704:11756] UpdateStatus succeeded: 0x00000000
+[2017-05-28 12:26:51.411] [info   ] [settings   ] [ 4476: 4960] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-28 12:26:51.418] [info   ] [crashguard ] [ 4476: 4960] CrashGuard global exception handler installed
+[2017-05-28 12:26:51.418] [info   ] [crashguard ] [ 4476: 4960] CrashGuard initialized successfully, external dumping enabled
+[2017-05-28 12:26:51.418] [info   ] [wsc        ] [ 4476: 4960] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-28 12:26:51.419] [info   ] [wsc        ] [ 4476: 1644] Updating struct IWscAVStatus
+[2017-05-28 12:26:51.419] [info   ] [wsc        ] [ 4476: 2856] Updating struct IWscASStatus
+[2017-05-28 12:26:51.451] [info   ] [wsc        ] [ 4476: 2856] UpdateStatus succeeded: 0x00000000
+[2017-05-28 12:26:51.451] [info   ] [wsc        ] [ 4476: 1644] UpdateStatus succeeded: 0x00000000
+[2017-05-28 16:29:15.564] [info   ] [settings   ] [ 6504: 6776] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-28 16:29:15.567] [info   ] [crashguard ] [ 6504: 6776] CrashGuard global exception handler installed
+[2017-05-28 16:29:15.567] [info   ] [crashguard ] [ 6504: 6776] CrashGuard initialized successfully, external dumping enabled
+[2017-05-28 16:29:15.568] [info   ] [wsc        ] [ 6504: 6776] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-28 16:29:15.568] [info   ] [wsc        ] [ 6504: 9444] Updating struct IWscAVStatus
+[2017-05-28 16:29:15.568] [info   ] [wsc        ] [ 6504: 8236] Updating struct IWscASStatus
+[2017-05-28 16:29:15.586] [info   ] [wsc        ] [ 6504: 8236] UpdateStatus succeeded: 0x00000000
+[2017-05-28 16:29:15.586] [info   ] [wsc        ] [ 6504: 9444] UpdateStatus succeeded: 0x00000000
+[2017-05-29 09:11:31.205] [info   ] [settings   ] [ 7008: 8448] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-29 09:11:31.208] [info   ] [crashguard ] [ 7008: 8448] CrashGuard global exception handler installed
+[2017-05-29 09:11:31.209] [info   ] [crashguard ] [ 7008: 8448] CrashGuard initialized successfully, external dumping enabled
+[2017-05-29 09:11:31.209] [info   ] [wsc        ] [ 7008: 8448] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-29 09:11:31.210] [info   ] [wsc        ] [ 7008: 6264] Updating struct IWscAVStatus
+[2017-05-29 09:11:31.210] [info   ] [wsc        ] [ 7008:11392] Updating struct IWscASStatus
+[2017-05-29 09:11:31.246] [info   ] [wsc        ] [ 7008:11392] UpdateStatus succeeded: 0x00000000
+[2017-05-29 09:11:31.246] [info   ] [wsc        ] [ 7008: 6264] UpdateStatus succeeded: 0x00000000
+[2017-05-30 01:49:35.641] [info   ] [settings   ] [12148:11608] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-30 01:49:35.644] [info   ] [crashguard ] [12148:11608] CrashGuard global exception handler installed
+[2017-05-30 01:49:35.644] [info   ] [crashguard ] [12148:11608] CrashGuard initialized successfully, external dumping enabled
+[2017-05-30 01:49:35.645] [info   ] [wsc        ] [12148:11608] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-30 01:49:35.646] [info   ] [wsc        ] [12148: 6876] Updating struct IWscAVStatus
+[2017-05-30 01:49:35.646] [info   ] [wsc        ] [12148: 6128] Updating struct IWscASStatus
+[2017-05-30 01:49:35.664] [info   ] [wsc        ] [12148: 6128] UpdateStatus succeeded: 0x00000000
+[2017-05-30 01:49:35.664] [info   ] [wsc        ] [12148: 6876] UpdateStatus succeeded: 0x00000000
+[2017-05-30 01:57:48.320] [info   ] [settings   ] [ 5188: 5192] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-30 01:57:48.340] [info   ] [crashguard ] [ 5188: 5192] CrashGuard global exception handler installed
+[2017-05-30 01:57:48.340] [info   ] [crashguard ] [ 5188: 5192] CrashGuard initialized successfully, external dumping enabled
+[2017-05-30 01:57:48.341] [info   ] [wsc        ] [ 5188: 5192] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-30 01:57:48.343] [info   ] [wsc        ] [ 5188: 5276] Updating struct IWscAVStatus
+[2017-05-30 01:57:48.343] [info   ] [wsc        ] [ 5188: 5280] Updating struct IWscASStatus
+[2017-05-30 01:57:48.360] [info   ] [wsc        ] [ 5188: 5280] UpdateStatus succeeded: 0x00000000
+[2017-05-30 01:57:48.360] [info   ] [wsc        ] [ 5188: 5276] UpdateStatus succeeded: 0x00000000
+[2017-05-30 13:14:37.321] [info   ] [settings   ] [ 8588: 7724] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-30 13:14:37.322] [info   ] [crashguard ] [ 8588: 7724] CrashGuard global exception handler installed
+[2017-05-30 13:14:37.322] [info   ] [crashguard ] [ 8588: 7724] CrashGuard initialized successfully, external dumping enabled
+[2017-05-30 13:14:37.322] [info   ] [wsc        ] [ 8588: 7724] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-30 13:14:37.323] [info   ] [wsc        ] [ 8588:11740] Updating struct IWscAVStatus
+[2017-05-30 13:14:37.323] [info   ] [wsc        ] [ 8588: 2124] Updating struct IWscASStatus
+[2017-05-30 13:14:37.343] [info   ] [wsc        ] [ 8588:11740] UpdateStatus succeeded: 0x00000000
+[2017-05-30 13:14:37.343] [info   ] [wsc        ] [ 8588: 2124] UpdateStatus succeeded: 0x00000000
+[2017-05-30 17:16:42.421] [info   ] [settings   ] [ 8156: 6496] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-30 17:16:42.422] [info   ] [crashguard ] [ 8156: 6496] CrashGuard global exception handler installed
+[2017-05-30 17:16:42.422] [info   ] [crashguard ] [ 8156: 6496] CrashGuard initialized successfully, external dumping enabled
+[2017-05-30 17:16:42.422] [info   ] [wsc        ] [ 8156: 6496] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-30 17:16:42.423] [info   ] [wsc        ] [ 8156: 2808] Updating struct IWscAVStatus
+[2017-05-30 17:16:42.423] [info   ] [wsc        ] [ 8156: 1372] Updating struct IWscASStatus
+[2017-05-30 17:16:42.441] [info   ] [wsc        ] [ 8156: 1372] UpdateStatus succeeded: 0x00000000
+[2017-05-30 17:16:42.441] [info   ] [wsc        ] [ 8156: 2808] UpdateStatus succeeded: 0x00000000
+[2017-05-31 15:34:42.873] [info   ] [settings   ] [12772:12736] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2017-05-31 15:34:42.875] [info   ] [crashguard ] [12772:12736] CrashGuard global exception handler installed
+[2017-05-31 15:34:42.875] [info   ] [crashguard ] [12772:12736] CrashGuard initialized successfully, external dumping enabled
+[2017-05-31 15:34:42.875] [info   ] [wsc        ] [12772:12736] wsc started: '"C:\Program Files (x86)\AVG\Antivirus\wsc_proxy.exe" /SVC /update /av_as /state:on /signatures:up_to_date'
+[2017-05-31 15:34:42.876] [info   ] [wsc        ] [12772:12728] Updating struct IWscAVStatus
+[2017-05-31 15:34:42.877] [info   ] [wsc        ] [12772: 6740] Updating struct IWscASStatus
+[2017-05-31 15:34:42.898] [info   ] [wsc        ] [12772: 6740] UpdateStatus succeeded: 0x00000000
+[2017-05-31 15:34:42.898] [info   ] [wsc        ] [12772:12728] UpdateStatus succeeded: 0x00000000
